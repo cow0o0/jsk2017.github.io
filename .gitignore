@@ -1,0 +1,16 @@
+#python
+*.py[cod]
+*.so
+*.egg
+build
+dist
+#windows
+
+#c
+*.o
+*.s
+*.arm
+#vim
+~.*
+#html
+
