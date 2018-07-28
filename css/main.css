@@ -124,7 +124,7 @@ body:before {
     content: "\e603";
 }
 .icon-photo:before {
-    content: "\e605";
+    content: "\e60f";
 }
 @-webkit-keyframes slideUp {
     from {
